@@ -46,6 +46,3 @@ server.listen(7000, "127.0.0.1");
 
 
 
-
-
-require('./lib/test.js');
